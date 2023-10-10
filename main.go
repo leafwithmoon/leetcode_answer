@@ -1,7 +1,7 @@
 package main
 
-import twoSum "github.com/leafwithmoon/leetcode_answer/two-sum"
+import addTwoNumbers "github.com/leafwithmoon/leetcode_answer/add-two-numbers"
 
 func main() {
-	twoSum.Run()
+	addTwoNumbers.Run()
 }
