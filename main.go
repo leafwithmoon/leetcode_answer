@@ -1,7 +1,7 @@
 package main
 
-import addTwoNumbers "github.com/leafwithmoon/leetcode_answer/add-two-numbers"
+import longestNoRepeatingSubstring "github.com/leafwithmoon/leetcode_answer/longest-no-repeating-substring"
 
 func main() {
-	addTwoNumbers.Run()
+	longestNoRepeatingSubstring.Run()
 }
